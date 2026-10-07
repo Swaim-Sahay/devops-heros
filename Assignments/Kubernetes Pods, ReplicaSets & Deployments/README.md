@@ -55,3 +55,47 @@ Distributed databases such as Cassandra, MongoDB clusters, MySQL clusters, messa
 ### Execution
 
 ![alt text](statefulset.png)
+
+
+# Deployments
+## Rolling
+
+### Rolling V1
+![alt text](image.png)
+
+### Rolling V2
+![alt text](image-1.png)
+
+### Rolling undo 
+![alt text](image-2.png)
+
+## Canary
+### Canary V1
+![alt text](image-3.png)
+
+### Canary V2
+![alt text](image-4.png)
+
+### Canary Scaling
+![alt text](image-5.png)
+
+### Canary Switched
+![alt text](image-6.png)
+
+### canary Rollback
+![alt text](image-7.png)
+
+## Blue Green
+### Blue Green Deployment
+![alt text](image-8.png)
+
+
+## Recreate
+### Recreate V1
+![alt text](image-9.png)
+
+### Recreate V2
+![alt text](image-10.png)
+
+# Pod Lifecycle
+![alt text](image-11.png)
